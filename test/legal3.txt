@@ -1,4 +1,4 @@
-9T
-12T
-10T
-11T
+9 blue
+12 blue
+10 blue
+11 blue

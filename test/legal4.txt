@@ -1,6 +1,6 @@
-1B
-8R
-8B
-8T
-2B
-3B
+1 black
+8 red
+8 black
+8 blue
+2 black
+3 black
